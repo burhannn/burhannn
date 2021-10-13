@@ -2,6 +2,7 @@
 <h3 align="center">A passionate software developer from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burhannn&label=visitor:&color=00f900&style=plastic" alt="burhannn" /> </p>
+![Visitor Count](https://profile-counter.glitch.me/burhannn/count.svg)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=burhannn" alt="burhannn" /></a> </p>
 
