@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Burhan</h1>
 <h3 align="center">A passionate software developer from Germany</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=burhannn&label=visitor:&color=00f900&style=plastic" alt="burhannn" /> </p>
-![Visitor Count](https://profile-counter.glitch.me/burhannn/count.svg)
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=burhannn" alt="burhannn" /></a> </p>
 
 
@@ -15,3 +12,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=burhannn&show_icons=true&theme=highcontrast&locale=en" alt="burhannn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=burhannn&theme=dark" alt="burhannn" /></p>
+
+ ![Visitor Count](https://profile-counter.glitch.me/burhannn/count.svg) 
+ 
+ 
